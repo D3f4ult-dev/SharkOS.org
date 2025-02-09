@@ -1,4 +1,5 @@
-# ![SharkOS Logo](shark.png)
+## SharkOS The New Windows11
+# ![SharkOS Logo](logo.png)
 
 # SharkOS Windows 11 Edition 🌊
 
