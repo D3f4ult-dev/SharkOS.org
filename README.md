@@ -4,7 +4,7 @@
 
 **Bringing high performance, stability, and a lightweight experience to Windows 11.**
 
-![Background](bacgnd.webp)
+![Background](preview.png)
 
 ## 🌟 Overview
 SharkOS Windows 11 Edition is a specialized version of SharkOS designed to optimize Windows 11 while keeping it lightweight and efficient. It provides performance enhancements, gaming tweaks, and system optimizations for users who demand the best experience.
@@ -57,7 +57,7 @@ SharkOS Windows 11 Edition is a specialized version of SharkOS designed to optim
 ---
 
 ## 🌊 Experience SharkOS Windows 11 Edition
-![Live Preview](bacgnd.webp)
+![Live Preview](preview.png)
 
 🚀 **Optimized. Fast. Powerful.**  
 💻 **Transform Windows 11 into a true performance machine!**
