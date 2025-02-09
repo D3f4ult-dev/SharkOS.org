@@ -62,6 +62,10 @@ body {
     align-items: center;
     justify-content: center;
     padding: 20px;
+    width: 100vw;
+    min-height: 100vh;
+    box-sizing: border-box;
+    overflow-y: auto;
 }
 
 .container:hover {
@@ -104,19 +108,44 @@ img:hover {
     width: auto;
 }
 
-html {
-    scroll-behavior: smooth;
+html, body {
+    overflow-x: hidden;
+    width: 100vw;
+    height: 100vh;
+    box-sizing: border-box;
 }
 
 body::-webkit-scrollbar {
-    width: 10px;
+    width: 8px;
 }
 
 body::-webkit-scrollbar-track {
-    background: rgba(0, 85, 170, 0.5);
+    background: transparent;
 }
 
 body::-webkit-scrollbar-thumb {
-    background: rgba(0, 85, 170, 1);
-    border-radius: 5px;
+    background: rgba(255, 255, 255, 0.3);
+    border-radius: 4px;
 }
+
+@media (max-width: 768px) {
+    .top-bar {
+        flex-direction: column;
+        padding: 10px;
+    }
+
+    .top-bar img {
+        height: 40px;
+        margin-bottom: 5px;
+    }
+
+    .top-bar h1 {
+        font-size: 20px;
+    }
+
+    .container {
+        margin-top: 80px;
+        padding: 10px;
+    }
+}
+
