@@ -7,7 +7,7 @@
 
 ![Background](preview.png)
 
-## 🌐 Website 
+## 🌐 Website
 📌 **[Visit the Official Website](https://d3f4ult-dev.github.io/SharkOS.org)**.
 
 ## 🌟 Overview
@@ -53,20 +53,18 @@ SharkOS Windows 11 Edition is a specialized version of SharkOS designed to optim
 ---
 
 ## 🎯 Use Cases
-✅ High-performance users seeking ultimate speed & responsiveness.  
-✅ Gamers looking to reduce latency & improve FPS.  
-✅ Developers needing a clean, minimal environment.  
-✅ System testers pushing hardware to its limits.  
+✅ High-performance users seeking ultimate speed & responsiveness.
+✅ Gamers looking to reduce latency & improve FPS.
+✅ Developers needing a clean, minimal environment.
+✅ System testers pushing hardware to its limits.
 
 ---
 
 ## 🌊 Experience SharkOS Windows 11 Edition
 ![Live Preview](preview.png)
 
-🚀 **Optimized. Fast. Powerful.**  
+🚀 **Optimized. Fast. Powerful.**
 💻 **Transform Windows 11 into a true performance machine!**
 
-## 🧑‍💻 Devalopers 
+## 🧑‍💻 Devalopers
 ⚒️ *Made by Shark & [Asaadzx](https://github.com/asaadzx)*
-
-
