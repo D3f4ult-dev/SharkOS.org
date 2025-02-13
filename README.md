@@ -62,6 +62,8 @@ SharkOS Windows 11 Edition is a specialized version of SharkOS designed to optim
 
 🚀 **Optimized. Fast. Powerful.**  
 💻 **Transform Windows 11 into a true performance machine!**
-⚒️ **Made by Shark & [Asaadzx](https://github.com/asaadzx)**
+
+## 🧑‍💻 Devalopers 
+⚒️ *Made by Shark & [Asaadzx](https://github.com/asaadzx)*
 
 
