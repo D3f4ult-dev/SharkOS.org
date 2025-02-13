@@ -6,7 +6,10 @@
 **Bringing high performance, stability, and a lightweight experience to Windows 11.**
 
 ![Background](preview.png)
+
+## 🌐 Website 
 📌 **[Visit the Official Website](https://d3f4ult-dev.github.io/SharkOS.org)**.
+
 ## 🌟 Overview
 SharkOS Windows 11 Edition is a specialized version of SharkOS designed to optimize Windows 11 while keeping it lightweight and efficient. It provides performance enhancements, gaming tweaks, and system optimizations for users who demand the best experience.
 
