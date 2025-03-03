@@ -71,3 +71,11 @@ SharkOS Windows 11 Edition is a specialized version of SharkOS designed to optim
 
 ### Huge Thanks To
 -Hellgzr the creator of optimizer
+
+---
+
+## TODOs
+- [ ] Release Alpha Version and make Community for it.
+- [ ] Make Sure everything works fine based on community
+- [ ] Release Beta 
+- [ ] Release the Regular version and some other version like developers, produtivity,Etc...
